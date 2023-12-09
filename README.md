@@ -14,7 +14,11 @@ Our groundbreaking solution leverages the power of Artificial Intelligence (AI) 
 
 To overcome challenges in navigating Mars' terrain, we employ cameras on the rover and helicopter to detect rocks in the environment. In addition to radar and lidar sensors, AI is utilized to enhance rock detection. We implemented the YOLO (You Only Look Once) technology for efficient object detection. Check out the [code for the YOLO model](https://github.com/Sofiene-Sellami/RockDetector) that we trained. For a demonstration of the model in action, view the [demo](https://drive.google.com/file/d/1dLqH66jy-Bm6sbpkJTME6XQz__wu2S3t/view?usp=sharing).
 
-### 2. Dust mitigation
+### 2. Advanced Sampling
+
+Our solution includes an upgraded robotic hand equipped with multiple specialized tools, enhancing the rover's capabilities and aiding it in successfully completing its mission.
+
+### 3. Dust mitigation
 
 To mitigate dust and debris accumulation on the wheels, we employ vibration techniques, including electrostatic repulsion. Witness the effectiveness of this mechanism in our [video demonstration](https://www.youtube.com/watch?v=FmFrBWHSqA8).
 
