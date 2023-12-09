@@ -1,10 +1,10 @@
-# TSYP-AESS-Challange-
+# TSYP 11 -AESS-Challange-
 This is the repository for the challenge where you can find all technical resources used for our innovative idea.
 # Mars Rover Innovation Project
 
 ## Overview
 
-Welcome to the Mars Rover Innovation Project repository! Our innovative idea is poised to revolutionize spatial exploration, particularly on Mars, addressing key limitations observed in previous rover deployments. The challenges include harsh environmental conditions, limited energy resources, and constrained access to vital materials.
+Welcome to the Mars Rover Innovation Project repository! Our innovative idea is poised to revolutionize spatial exploration, particularly on Mars, addressing key limitations observed in previous rover deployments.
 
 ## Solution Overview
 
@@ -16,11 +16,11 @@ To overcome challenges in navigating Mars' terrain, we employ cameras on the rov
 
 ### 2. Advanced Sampling
 
-Our solution includes an upgraded robotic hand equipped with multiple specialized tools, enabling the collection and analysis of a broader range of samples with higher precision. Explore the [demo](link_to_sampling_demo) showcasing the enhanced capabilities.
+Our solution includes an upgraded robotic hand equipped with multiple specialized tools. Explore the [demo](link_to_sampling_demo) showcasing the enhanced capabilities.
 
-### 3. Vibration Mechanism
+### 3. Dust mitigation
 
-To mitigate dust and debris accumulation on the wheels, we employ vibration techniques, including electrostatic repulsion. Witness the effectiveness of this mechanism in our [video demonstration](link_to_vibration_video).
+To mitigate dust and debris accumulation on the wheels, we employ vibration techniques, including electrostatic repulsion. Witness the effectiveness of this mechanism in our [video demonstration](https://www.youtube.com/watch?v=FmFrBWHSqA8).
 
 ## Rover Design and Simulation
 
