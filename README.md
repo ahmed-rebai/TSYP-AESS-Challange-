@@ -16,7 +16,7 @@ To overcome challenges in navigating Mars' terrain, we employ cameras on the rov
 
 ### 2. Advanced Sampling
 
-Our solution includes an upgraded robotic hand equipped with multiple specialized tools, enhancing the rover's capabilities and aiding it in successfully completing its mission.Explore the [demo](https://drive.google.com/file/d/13-i-G3Tz6C7yiG4VJnav4SobNoqW5SHa/view?fbclid=IwAR1Q02eAnPrLfDHS2uVRxJHE3jOsV_LCc18nPmOlNq12TG68KQIG6pSBpLU)
+Our solution includes an upgraded robotic hand equipped with multiple specialized tools, enhancing the rover's capabilities and aiding it in successfully completing its mission. Explore the [demo](https://drive.google.com/file/d/13-i-G3Tz6C7yiG4VJnav4SobNoqW5SHa/view?fbclid=IwAR1Q02eAnPrLfDHS2uVRxJHE3jOsV_LCc18nPmOlNq12TG68KQIG6pSBpLU)
 
 ### 3. Dust mitigation
 
