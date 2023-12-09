@@ -22,7 +22,7 @@ To mitigate dust and debris accumulation on the wheels, we employ vibration tech
 
 Explore the design and simulation of our new rover in the following sections:
 
-- [Rover Design & Simulation]([link_to_design_page](https://drive.google.com/drive/folders/1uBk7plS51V7C_UwHjIQCgAaPXQftQpRG?fbclid=IwAR2qrIUB99jFtbqxo2EdhiuIs9tljXsXAZjTXsZcbhQEUKNypQDcEFAjCN8)): Details about the innovative design of our Mars rover & A simulation showcasing the rover's capabilities in action.
+- [Rover Design & Simulation](https://drive.google.com/drive/folders/1uBk7plS51V7C_UwHjIQCgAaPXQftQpRG?fbclid=IwAR2qrIUB99jFtbqxo2EdhiuIs9tljXsXAZjTXsZcbhQEUKNypQDcEFAjCN8): Details about the innovative design of our Mars rover & A simulation showcasing the rover's capabilities in action.
 
 
 #Feel free to delve into the repository to discover more about our exciting project!
